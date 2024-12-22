@@ -30,7 +30,7 @@ JBilling is a graphical user interface (GUI)-based billing system implemented in
 
 ## Installation
 
-1. Clone the repository:
+1.Clone the repository:
    git clone https://github.com/yourusername/JBilling.git
    cd JBilling
 
