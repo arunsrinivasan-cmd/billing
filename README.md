@@ -36,27 +36,19 @@ JBilling is a graphical user interface (GUI)-based billing system implemented in
 
 2.compile the Java files:
    javac Bill.java
-Run the application:
+   Run the application:
 
 3.java Bill$Login
 
 Dependencies:
-  
   Java Development Kit (JDK) 8 or later.
-
 Project Structure:
-  
   Bill.java      # Main application file containing GUI and logic
   output.txt     # Example generated bill (created dynamically)
-
 Contribution:
-  
   Contributions are welcome! Please fork the repository and submit a pull request.
-
 License:
-  
   This project is licensed under the MIT License. See the LICENSE file for details.
-
 Author: Arun Srinivasan
  For questions or support, contact: arunsrinivasan4870@gmail.com
 
