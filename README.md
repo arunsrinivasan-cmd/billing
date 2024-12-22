@@ -33,9 +33,11 @@ JBilling is a graphical user interface (GUI)-based billing system implemented in
 1.Clone the repository:
    git clone https://github.com/yourusername/JBilling.git
    cd JBilling
+
 2.compile the Java files:
    javac Bill.java
    Run the application:
+
 3.java Bill$Login
 
 Dependencies:
