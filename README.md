@@ -40,20 +40,20 @@ Run the application:
 
 3.java Bill$Login
 
-Dependencies
+Dependencies:
   
   Java Development Kit (JDK) 8 or later.
 
-Project Structure
+Project Structure:
   
   Bill.java      # Main application file containing GUI and logic
   output.txt     # Example generated bill (created dynamically)
 
-Contribution
+Contribution:
   
   Contributions are welcome! Please fork the repository and submit a pull request.
 
-License
+License:
   
   This project is licensed under the MIT License. See the LICENSE file for details.
 
